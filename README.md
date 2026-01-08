@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fourth-semester Brawijaya University Information Technology Associate Degree
+I'm a fifth-semester Brawijaya University Information Technology Associate Degree
 
 
 ## 🌐 Socials:
