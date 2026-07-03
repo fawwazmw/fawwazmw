@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fifth-semester Brawijaya University Information Technology Associate Degree
+Frontend Web & Mobile Developer with 2+ years of experience building scalable web and mobile applications using React, Flutter, and modern JavaScript technologies. I enjoy creating user-focused products with clean interfaces, strong performance, and maintainable code. My experience includes healthcare systems, document management platforms, real-time transportation applications, and educational technology solutions used by hundreds of users. I thrive in collaborative teams, enjoy solving real-world problems through technology, and continuously seek opportunities to learn and grow as an engineer.
 
 
 ## 🌐 Socials:
